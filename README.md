@@ -1,4 +1,3 @@
-# Retail-Shelf-Restocking-Time-Analysis
 # Retail Shelf Restocking Time Analysis
 **Minor 1 – Pandas Project**
 
